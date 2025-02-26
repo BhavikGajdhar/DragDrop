@@ -1,0 +1,13 @@
+{
+  "chartData": [
+    { "name": "Jan", "value": 400 },
+    { "name": "Feb", "value": 300 },
+    { "name": "Mar", "value": 500 },
+    { "name": "Apr", "value": 700 }
+  ],
+  "tableData": [
+    { "name": "John Doe", "age": 30, "salary": 5000 },
+    { "name": "Jane Smith", "age": 25, "salary": 6000 },
+    { "name": "Mike Johnson", "age": 35, "salary": 7000 }
+  ]
+}

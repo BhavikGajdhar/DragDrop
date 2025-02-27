@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = "http://localhost:3000";
+const url = "https://json-server-vercel-eight-sepia.vercel.app";
 
 /** Get All the Data of Employee Call*/
 export const getChartData = () => {

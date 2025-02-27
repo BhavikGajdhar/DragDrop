@@ -6,9 +6,6 @@ Installation & Setup
    npm install
 3. Start the application
    npm run dev
-4. Start the Json-Server
-   json-server --watch db.json
-   for relevant db.json files file path // ignore this point if json-server is on vercel deploy.
 
 Usage:
 
